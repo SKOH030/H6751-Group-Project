@@ -1,0 +1,5 @@
+Model,Accuracy(train),Accuracy(test),Time
+Naive Bayes,0.89906,0.78872,1.17642
+Logistic Regression,0.8631,0.80655,45.21095
+Decision Tree,0.61586,0.61624,63.97331
+AdaBoost,0.67358,0.67328,206.82881
