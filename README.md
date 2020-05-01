@@ -13,6 +13,6 @@ H6751 Web &amp; Text Mining Team 5 Group Project
 - smu_sentiment.csv – tweets data from SMU with sentiment classification
 - uni_sentiment.csv - tweets data from NTU, NUS & SMU with sentiment classification
 - lropt_model.sav (not upload > 25MB) - Trained Logistic Regression Model (Optimized)
-- Sentiment140.csv (not upload > 25MB) – training dataset from Kaggle
-- Test.csv (not upload > 25MB) – preprocessed Kaggle test data using train_test_split(test_size = 0.2)
+- sentiment140.csv (not upload > 25MB) – training dataset from Kaggle
+- test.csv (not upload > 25MB) – preprocessed Kaggle test data using train_test_split(test_size = 0.2)
 - train.csv (not upload > 25MB) – preprocessed Kaggle train data using train_test_split(test_size = 0.2)
