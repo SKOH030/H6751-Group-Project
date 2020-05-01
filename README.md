@@ -3,8 +3,8 @@ H6751 Web &amp; Text Mining Team 5 Group Project
 # Twitter Sentiment Analysis of Universities in Singapore
 #### The aim of this project is to analyse the tweets from the top three universities in Singapore.
 ## Files uploaded to GitHub
-program05.ipny – code to train algorithm, extract tweets, classify tweets and analysis
-result.csv – test accuracy, training accuracy and time for various classifiers
+- program05.ipny – code to train algorithm, extract tweets, classify tweets and analysis
+- result.csv – test accuracy, training accuracy and time for various classifiers
 ntu0.csv – tweets data from NTU
 nus0.csv – tweets data on NUS
 smu0.csv – tweets data on SMU
